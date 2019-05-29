@@ -12,7 +12,7 @@ Item list structure looks like this:
 Item names go in an increasing alphabetical order, with inner list inheriting its parent name and adding to it, making every
 item unique and easily identifiable.
 
-Screenshort of user interface:
+Screenshot of user interface:
 ![Alt text](https://i.imgur.com/0yFft9N.png)
 
 To run this application, clone the repo and make sure WPF application (ListExe) is set to be a start-up project for the solution and not
